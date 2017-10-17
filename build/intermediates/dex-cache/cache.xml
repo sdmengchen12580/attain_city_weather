@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\newSDK\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\android\location1\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_088e6556ee2bc75a100e88483c6d19de19deb77b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\location1\app\libs\locSDK_3.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="590d32bdf5bb37ee372a21696b8f7853b224e31f">
+        <dex dex="D:\android\location1\app\build\intermediates\pre-dexed\debug\locSDK_3.3_47b6927ce15a1b578bf9c5a48e81eac0f97dc42f.jar" />
+    </item>
+
+</items>

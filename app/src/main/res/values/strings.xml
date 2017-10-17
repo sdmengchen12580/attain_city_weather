@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">天气</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">等待定位...</string>
+	<string name="Button">当地天气</string>
+	<string name="beijing">北京</string>
+	<string name="guangzhou">广州</string>
+	<string name="tieling">铁岭</string>
+	<string name="hengyang">衡阳</string>
+	<string name="shenyang">沈阳</string>
+	<string name="xian">西安</string>
+	<string name="exit">退出</string>
+</resources>
